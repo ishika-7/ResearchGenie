@@ -254,7 +254,7 @@ Citation-backed Response
 - Redis caching
 - Docker deployment
 - Kubernetes deployment
-- Multi-user workspaces
+- Multi-user workspace
 
 ---
 
